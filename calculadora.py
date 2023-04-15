@@ -1,3 +1,4 @@
+# EJERCICIO BUCLE WHILE
 num1 = int(input("\nIngrasa un numero==>  "))
 operador = input("\nSelecciona (+),(-),(/),(*)==>  ")
 num2 = int(input("\nIngrasa un numero==>  "))
